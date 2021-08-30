@@ -4,4 +4,4 @@
 [![Github Stats!](https://github-readme-stats.vercel.app/api?username=sebaspv&show_icons=true&theme=radical)
 ](https://github.com/sebaspv/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaspv&show_icons=true&theme=radical&hide=jupyter_notebook)](https://github.com/sebaspv/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebaspv&show_icons=true&theme=radical&hide=ipynb)](https://github.com/sebaspv/github-readme-stats)
