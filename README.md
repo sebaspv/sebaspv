@@ -3,7 +3,7 @@
    Hello! I'm Sebastian.
    <br>
    I'm a Computer Science student at Tecnológico de Monterrey<br>
-   I'm also doing AI at Meta.
+   I'm also building AI at Meta.
    <br>
    </samp><br>
 <p align="center"><samp> ~
