@@ -2,7 +2,7 @@
    <samp><br>
    Hello! I'm Sebastian.
    <br>
-   I'm a Computer Science student at Tecnológico de Monterrey<br>
+   I'm a Computer Science student at Tecnológico de Monterrey.<br>
    I'm also building AI at Meta.
    <br>
    </samp><br>
