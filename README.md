@@ -3,7 +3,7 @@
    Hello! I'm Sebastian.
    <br>
    I'm a Computer Science student at Tecnológico de Monterrey.<br>
-   I previously built AI at Meta, and now I'm in SF building AI for Bloomberg :)
+   I previously built AI at Meta, and now I'm in SF building AI at Bloomberg :)
    <br>
    </samp><br>
 <p align="center"><samp> ~
