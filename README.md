@@ -1,9 +1,9 @@
 <p align="center">
    <samp><br>
-   Hello! I'm Sebastian.
+   hello! i'm sebastian
    <br>
-   I'm a Computer Science student at Tecnológico de Monterrey.<br>
-   I previously built AI at Meta, and now I'm in SF building AI at Bloomberg :)
+   i'm a c.s. student at tecnológico de monterrey.<br>
+   previously @ fair, now building ai @ bloomberg.<br>
    <br>
    </samp><br>
 <p align="center"><samp> ~
