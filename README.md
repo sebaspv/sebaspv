@@ -3,7 +3,7 @@
    hello! i'm sebastian
    <br>
    i'm a c.s. student at tecnológico de monterrey.<br>
-   swe intern @ bloomberg<br>
+   prev @ bloomberg<br>
    <br>
    </samp><br>
 <p align="center"><samp> ~
